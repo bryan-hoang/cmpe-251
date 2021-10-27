@@ -1,3 +1,3 @@
 # cmpe-251
 
-Exercises, pectures, and project files for Data Analytics.
+Exercises, pictures, and project files for CISC/CMPE 251 Data Analytics F21.
